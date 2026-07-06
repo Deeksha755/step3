@@ -1,0 +1,26 @@
+{
+    "name": "XLChess",
+    "short_name": "XLChess",
+    "description": "Premium chess platform with AI analysis, real-time multiplayer, puzzles, and learning tools.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#050b1d",
+    "theme_color": "#7b6dff",
+    "icons": [
+        {
+            "src": "/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon-180x180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ]
+}
